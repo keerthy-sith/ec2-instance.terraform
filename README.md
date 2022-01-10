@@ -7,4 +7,7 @@ aws configure  => it is used to configure your security credentials.
 mkdir example directory  =>  it is used to make a directory.
 cd example directory   =>   it is used to get enter in your directory.
 code main.tf =>  it is used to create your file in directory and write the code/statement to run your AWS instance.
-the code/statement is as below in a new file >code.ec2<
+the code/statement is as below in a new file >code.ec2<.
+when you enter the statement in your file then run these commands.
+terrform init => it is used to initialize youe code.
+terraform apply => it is used to apply the statement to create you EC2 instance.
